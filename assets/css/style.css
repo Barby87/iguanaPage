@@ -1,0 +1,107 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/* Formato header*/
+
+header {
+    text-align: center;
+}
+
+#imgHeader {
+    width: 100%;
+}
+
+
+/*Formato fuentes*/
+
+h1 {
+    font-size: 50px;
+    font-weight: 500;
+    margin: 0.25em;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+
+/*Formato sección 1*/
+
+#textoSeccion1 {
+    width: 60%;
+    margin: 10px;
+    white-space: normal;
+    float: left;
+    vertical-align: top;
+}
+
+#seccion1 {
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+    padding: 50px;
+    white-space: nowrap;
+}
+
+#imgIguana1 {
+    display: inline-block;
+    width: 25em;
+    height: 15em;
+    margin-left: 3.125em;
+    vertical-align: top;
+}
+
+
+/*Formato sección 2*/
+
+#seccion2 {
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 4em;
+}
+
+article {
+    display: inline-block;
+    margin: 1em 6em;
+    text-align: center;
+    font-weight: 300;
+}
+
+i {
+    font-size: 3em;
+}
+
+
+/* Formato sección 3*/
+
+.imgSeccion3 {
+    display: inline-block;
+    width: 25em;
+    height: 15em;
+    vertical-align: middle;
+    margin: 0.62em;
+}
+
+.imgCentrado {
+    padding: 3.125em;
+    margin: 1.25em 3.125em;
+}
+
+
+/* Formato footer*/
+
+footer {
+    background-color: #1E1A13;
+    padding: 1em;
+    text-align: center;
+}
